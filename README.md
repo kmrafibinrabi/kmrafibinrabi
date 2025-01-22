@@ -8,6 +8,7 @@ As a seasoned WordPress Theme and Plugin Developer with over 6 years of experien
 - PHP
 - WordPress
 - JavaScript
+- Next.js
 - jQuery
 
 ### 🌱 I'm currently learning:
@@ -15,6 +16,7 @@ As a seasoned WordPress Theme and Plugin Developer with over 6 years of experien
 
 ### 👯 I'm looking to collaborate on:
 - WordPress Plugin Development
+- Frontend Development
 
 ### 💬 Ask me about:
 - WordPress Development
