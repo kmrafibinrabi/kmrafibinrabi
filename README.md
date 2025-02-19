@@ -8,7 +8,7 @@ As a seasoned WordPress Theme and Plugin Developer with over 6 years of experien
 - PHP
 - WordPress
 - JavaScript
-- Next.js
+- Nuxt.js
 - jQuery
 
 ### 🌱 I'm currently learning:
