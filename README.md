@@ -7,7 +7,7 @@
 # Hi there 👋, I'm K M RAFI BIN RABI
 ## Web Application Developer
 
-As a seasoned WordPress Theme and Plugin Developer with over 6 years of experience, I understand that themes are crucial in creating a captivating online presence. Think of themes as the universe in which your story takes place where the plugin extends functionality. That's why I specialize in WordPress Theme and plugin customizing, offering full site setup, custom theme development, plugin creation, and various tweaks to ensure your website stands out from the competition. As a WordPress Theme Developer, my goal is to help you create a unique and visually appealing website that represents your brand and engages your audience, setting you up for online success.
+As a Frontend Developer with over 6 years of experience, I specialize in building dynamic, user-friendly websites using WordPress, Vue.js, and Nuxt.js. From custom themes and plugins in WordPress to sleek, high-performing front-end apps with Vue and Nuxt, I create responsive and engaging web experiences that help brands stand out online.
 
 ### Skills:
 - HTML / CSS
