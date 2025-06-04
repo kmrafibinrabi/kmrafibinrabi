@@ -29,7 +29,7 @@ As a Frontend Developer with over 6 years of experience, I specialize in buildin
 
 - 🤝 I’m looking for help with **PHP**
 
-- 👨‍💻 All of my projects are available at [https://kmrafibinrabi.github.io/portfolio](https://kmrafibinrabi.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://kmrafibinrabi.github.io](https://kmrafibinrabi.github.io/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kmrafi/](https://www.linkedin.com/in/kmrafi/)
 
